@@ -1,3 +1,3 @@
 # Johnny Huang's Website
 
-source code for [johnnyhuang.me](johnnyhuang.me)
+source code for [johnnyhuang.me](https://johnnyhuang.me)
